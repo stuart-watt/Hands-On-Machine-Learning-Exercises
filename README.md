@@ -3,4 +3,4 @@ This repository simply contains the exercises from the book "Hands-On Machine Le
 
 The exercises and code are reproduced from:
 
-*Hands-On Machine Leanring with Scikit-Learn and TensorFlow* by Aurelien Geron (O'Reilly). Copyright 2017 Aurelien Geron, 9789-1-491-96229-9
+*Hands-On Machine Leanring with Scikit-Learn and TensorFlow* by Aurelien Geron (O'Reilly). Copyright 2017 Aurelien Geron, 978-1-491-96229-9
